@@ -51,13 +51,13 @@
 
 |  序号  | 方法及描述                                    |
 | :--: | :--------------------------------------- |
-|  1   | **char charAt(int index)**返回指定位置的字符      |
-|  2   | **int compareTo(Object o)**比较字符串与对象      |
-|  3   | **int compareTo(String anotherString)**按字典顺序比较两个字符串 |
-|  4   | **int compareToIgnoreCase(String str)**按字典顺序比较两个字符串，不考虑大小写 |
-|  5   | **String concat(String str)**将指定字符串连接到此字符串的结尾 |
-|  6   | **boolean contentEquals(StringBuffer sb)**将此字符串与指定的 StringBuffer 比较。 |
-|  7   | **static String copyValueOf(char[] data)**返回指定数组中表示该字符序列的 String |
+|  1   | **char charAt(int index)** 返回指定位置的字符     |
+|  2   | **int compareTo(Object o) **比较字符串与对象     |
+|  3   | **int compareTo(String anotherString)** 按字典顺序比较两个字符串 |
+|  4   | **int compareToIgnoreCase(String str) **按字典顺序比较两个字符串，不考虑大小写 |
+|  5   | **String concat(String str)** 将指定字符串连接到此字符串的结尾 |
+|  6   | **boolean contentEquals(StringBuffer sb)** 将此字符串与指定的 StringBuffer 比较。 |
+|  7   | **static String copyValueOf(char[] data) **返回指定数组中表示该字符序列的 String |
 |  8   | **static String copyValueOf(char[] data, int offset, int count)**返回指定数组中表示该字符序列的 String |
 |  9   | **boolean endsWith(String suffix)**测试此字符串是否以指定的后缀结束 |
 |  10  | **boolean equals(Object anObject)**将此字符串与指定的对象比较 |
